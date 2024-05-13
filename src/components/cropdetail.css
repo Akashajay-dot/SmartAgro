@@ -1,0 +1,4 @@
+.CropDetail_photo{
+    object-fit: contain;
+    height: 5vh;
+}
